@@ -4,7 +4,7 @@ Community created hardware designs for use with Parallella computer
 
 ## Contents
 
-*
+* para-tile/ - Simple tilable breakout board for one Samtec connector.
 
 ## Contributing
 
